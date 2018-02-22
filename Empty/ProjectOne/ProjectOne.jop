@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<JetView-ObjectPool Version="3.0" ProductVersion="5.3.0.4030">
+	<Objects>
+		<Object Class="CLineStyle" JVS-ID="24000" ObjectName="LineAttributes_24000" Pinned="FALSE">
+			<PropertySheet Name="LineStyle" ID="68696">
+				<Property Name="Color">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Style">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Width">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Transparent">
+					<Value>0</Value>
+				</Property>
+				<Property Name="LineArtBits">
+					<Value>1111111111111111</Value>
+				</Property>
+				<Property Name="CapStyle">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+		</Object>
+		<Object Class="CWorkingSet" Name="" ObjectName="WorkingSet_0" Pinned="FALSE" JVS-ID="0" JVS-RefCount="1">
+			<PropertySheet Name="Model">
+				<Property Name="MaskType">
+					<Value>3</Value>
+				</Property>
+				<Property Name="Path">
+					<Value>.\WorkingSet_0.jvi</Value>
+				</Property>
+			</PropertySheet>
+		</Object>
+		<Object Class="CDataMask" Name="" ObjectName="MaskOne" Pinned="FALSE" JVS-ID="1000" JVS-RefCount="1">
+			<PropertySheet Name="Model">
+				<Property Name="MaskType">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Path">
+					<Value>.\MaskOne.jvi</Value>
+				</Property>
+			</PropertySheet>
+		</Object>
+		<Object Class="CLine" Name="Line" ObjectName="Line_13000" Pinned="FALSE" JVS-ID="13000">
+			<PropertySheet Name="Line">
+				<Property Name="Points">
+					<Value>(0,0)(31,1)</Value>
+				</Property>
+				<Property Name="OriginalPoints">
+					<Value>(0,0)(31,1)</Value>
+				</Property>
+				<Property Name="PenJoinStyle">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+			<Objects>
+				<Object JVS-ID="24000"/>
+			</Objects>
+		</Object>
+	</Objects>
+</JetView-ObjectPool>

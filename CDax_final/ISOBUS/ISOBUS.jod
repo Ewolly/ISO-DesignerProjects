@@ -18,13 +18,13 @@
 		</Object>
 		<Object Class="COutputText">
 			<Objects>
-				<Object Class="CFontStyle" JVS-ID="23006" ObjectName="FontAttributes_23006"/>
+				<Object Class="CFontStyle" JVS-ID="23002" ObjectName="FontAttributes_23002"/>
 			</Objects>
 		</Object>
 		<Object Class="GraphicObject">
 			<Objects>
-				<Object Class="CLineStyle" JVS-ID="24001" ObjectName="LineAttributes_24001"/>
-				<Object Class="CFillStyle" JVS-ID="25002" ObjectName="FillAttributes_25002"/>
+				<Object Class="CLineStyle" JVS-ID="24003" ObjectName="LineAttributes_24003"/>
+				<Object Class="CFillStyle" JVS-ID="25001" ObjectName="FillAttributes_25001"/>
 			</Objects>
 		</Object>
 	</Objects>

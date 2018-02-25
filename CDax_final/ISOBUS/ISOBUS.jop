@@ -516,6 +516,50 @@
 				</Property>
 			</PropertySheet>
 		</Object>
+		<Object Class="CLineStyle" JVS-ID="24002" ObjectName="LineAttributes_24002" Pinned="FALSE">
+			<PropertySheet Name="LineStyle" ID="68696">
+				<Property Name="Color">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Style">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Width">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Transparent">
+					<Value>0</Value>
+				</Property>
+				<Property Name="LineArtBits">
+					<Value>1111111111111111</Value>
+				</Property>
+				<Property Name="CapStyle">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+		</Object>
+		<Object Class="CLineStyle" JVS-ID="24003" ObjectName="LineAttributes_24003" Pinned="FALSE">
+			<PropertySheet Name="LineStyle" ID="68696">
+				<Property Name="Color">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Style">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Width">
+					<Value>2</Value>
+				</Property>
+				<Property Name="Transparent">
+					<Value>0</Value>
+				</Property>
+				<Property Name="LineArtBits">
+					<Value>1111111111111111</Value>
+				</Property>
+				<Property Name="CapStyle">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+		</Object>
 		<Object Class="CFillStyle" JVS-ID="25000" ObjectName="FillAttributes_25000" Pinned="FALSE">
 			<PropertySheet Name="FillStyle" Version="2" ID="68716">
 				<Property Name="HatchStyle">
@@ -603,6 +647,43 @@
 				</Property>
 				<Property Name="ForeColor">
 					<Value>255</Value>
+				</Property>
+				<Property Name="TransparentBackground">
+					<Value>1</Value>
+				</Property>
+				<Property Name="FillTransparent">
+					<Value>0</Value>
+				</Property>
+				<Property Name="FillType">
+					<Value>2</Value>
+				</Property>
+				<Property Name="FillPatternObjectID">
+					<Value>-1</Value>
+				</Property>
+				<Property Name="GradientDirection">
+					<Value>0.000000</Value>
+				</Property>
+				<Property Name="RadialRefPointIsCenter">
+					<Value>1</Value>
+				</Property>
+				<Property Name="DistanceInPercentFromStart">
+					<Value>0.000000</Value>
+				</Property>
+			</PropertySheet>
+		</Object>
+		<Object Class="CFillStyle" JVS-ID="25003" ObjectName="FillAttributes_25003" Pinned="FALSE">
+			<PropertySheet Name="FillStyle" Version="2" ID="68716">
+				<Property Name="HatchStyle">
+					<Value>0</Value>
+				</Property>
+				<Property Name="FillStyle">
+					<Value>0</Value>
+				</Property>
+				<Property Name="BackColor">
+					<Value>52326</Value>
+				</Property>
+				<Property Name="ForeColor">
+					<Value>52326</Value>
 				</Property>
 				<Property Name="TransparentBackground">
 					<Value>1</Value>
@@ -848,6 +929,8 @@
 				</Property>
 			</PropertySheet>
 			<Objects>
+				<Object JVS-ID="4194382"/>
+				<Object JVS-ID="4194381"/>
 				<Object JVS-ID="4194311"/>
 			</Objects>
 		</Object>
@@ -2426,10 +2509,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>249</Value>
+					<Value>220</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>60</Value>
+					<Value>50</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -2540,10 +2623,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>231</Value>
+					<Value>220</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>68</Value>
+					<Value>50</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -2654,10 +2737,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>235</Value>
+					<Value>220</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>68</Value>
+					<Value>50</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -2712,10 +2795,10 @@
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>536.9975</Value>
+					<Value>600.9575</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>183.885</Value>
+					<Value>194.545</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -4279,10 +4362,10 @@ AG8AbABkAAAA]]>
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>317</Value>
+					<Value>54</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>84</Value>
+					<Value>29</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -4292,7 +4375,7 @@ AG8AbABkAAAA]]>
 				</Property>
 			</PropertySheet>
 			<Objects>
-				<Object JVS-ID="23004"/>
+				<Object JVS-ID="23006"/>
 			</Objects>
 		</Object>
 		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11017" Pinned="FALSE" JVS-ID="11017">
@@ -4953,10 +5036,10 @@ AG8AcgAgAGEAcwBzAGkAcwB0AGEAbgBjAGUALgAAAA==]]>
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>171</Value>
+					<Value>147</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>56</Value>
+					<Value>50</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -5045,10 +5128,10 @@ AG8AcgAgAGEAcwBzAGkAcwB0AGEAbgBjAGUALgAAAA==]]>
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>163</Value>
+					<Value>147</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>75</Value>
+					<Value>51</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -5137,10 +5220,10 @@ AG8AcgAgAGEAcwBzAGkAcwB0AGEAbgBjAGUALgAAAA==]]>
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>159</Value>
+					<Value>147</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>68</Value>
+					<Value>28</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -5689,10 +5772,10 @@ AG8AcgAgAGEAcwBzAGkAcwB0AGEAbgBjAGUALgAAAA==]]>
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>208</Value>
+					<Value>200</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>75</Value>
+					<Value>50</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -5781,10 +5864,10 @@ AG8AcgAgAGEAcwBzAGkAcwB0AGEAbgBjAGUALgAAAA==]]>
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>212</Value>
+					<Value>269</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>72</Value>
+					<Value>50</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -6169,6 +6252,98 @@ AGkAdAB5AAAA]]>
 				<Object JVS-ID="23002"/>
 			</Objects>
 		</Object>
+		<Object Class="COutputText" Name="Text" ObjectName="OutputString_11037" Pinned="FALSE" JVS-ID="11037">
+			<PropertySheet Name="Text">
+				<Property Name="Text">
+					<Value>
+						<![CDATA[UwBwAHIAZQBhAGQAZQByACAAUwBlAHQAdQBwAAAA]]>
+					</Value>
+				</Property>
+				<Property Name="ResourceID">
+					<Value/>
+				</Property>
+				<Property Name="MultiLine">
+					<Value>0</Value>
+				</Property>
+				<Property Name="WordBreak">
+					<Value>0</Value>
+				</Property>
+				<Property Name="WrapOnHyphen">
+					<Value>0</Value>
+				</Property>
+				<Property Name="AlignH">
+					<Value>0</Value>
+				</Property>
+				<Property Name="AlignV">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Appearance">
+					<Value>0</Value>
+				</Property>
+				<Property Name="ControlType">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Numeric">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Offset">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Scale">
+					<Value>1</Value>
+				</Property>
+				<Property Name="FormatType">
+					<Value>0</Value>
+				</Property>
+				<Property Name="FormatString">
+					<Value>0</Value>
+				</Property>
+				<Property Name="NoOfDecimals">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Value">
+					<Value>
+						<![CDATA[UwBwAHIAZQBhAGQAZQByACAAUwBlAHQAdQBwAAAA]]>
+					</Value>
+				</Property>
+				<Property Name="StringLength">
+					<Value>14</Value>
+				</Property>
+				<Property Name="Transparent">
+					<Value>1</Value>
+				</Property>
+				<Property Name="LeadingZeros">
+					<Value>0</Value>
+				</Property>
+				<Property Name="ZeroAsBlank">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Truncate">
+					<Value>0</Value>
+				</Property>
+				<Property Name="BkColor">
+					<Value>16777215</Value>
+				</Property>
+				<Property Name="RoundEdgeRadius">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Width">
+					<Value>251</Value>
+				</Property>
+				<Property Name="Height">
+					<Value>32</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+			<Objects>
+				<Object JVS-ID="23002"/>
+			</Objects>
+		</Object>
 		<Object Class="COutputNumber" Name="Text" ObjectName="OutputNumber_12000" Pinned="FALSE" JVS-ID="12000">
 			<PropertySheet Name="Text">
 				<Property Name="Text">
@@ -6429,10 +6604,10 @@ AGkAdAB5AAAA]]>
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>247</Value>
+					<Value>220</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>49</Value>
+					<Value>50</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -6521,10 +6696,10 @@ AGkAdAB5AAAA]]>
 					<Value>0</Value>
 				</Property>
 				<Property Name="Width">
-					<Value>261</Value>
+					<Value>220</Value>
 				</Property>
 				<Property Name="Height">
-					<Value>55</Value>
+					<Value>50</Value>
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
@@ -6639,6 +6814,181 @@ AGkAdAB5AAAA]]>
 				<Object JVS-ID="24000"/>
 			</Objects>
 		</Object>
+		<Object Class="CRectangle" Name="Rectangle" ObjectName="Rectangle_14003" Pinned="FALSE" JVS-ID="14003">
+			<PropertySheet Name="Rectangle">
+				<Property Name="LineSupression">
+					<Value>0000</Value>
+				</Property>
+				<Property Name="RoundEdgeRadius">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Points">
+					<Value>(0,0)(660,0)(660,75)(0,75)</Value>
+				</Property>
+				<Property Name="OriginalPoints">
+					<Value>(0,0)(642,0)(642,68)(0,68)</Value>
+				</Property>
+				<Property Name="Transform">
+					<Value>(1.0276132126147304)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.1036309458117206)(0.0000000000000000)</Value>
+				</Property>
+				<Property Name="Width">
+					<Value>660</Value>
+				</Property>
+				<Property Name="Height">
+					<Value>75</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+			<Objects>
+				<Object JVS-ID="25001"/>
+				<Object JVS-ID="24003"/>
+			</Objects>
+		</Object>
+		<Object Class="CRectangle" Name="Rectangle" ObjectName="Rectangle_14004" Pinned="FALSE" JVS-ID="14004">
+			<PropertySheet Name="Rectangle">
+				<Property Name="LineSupression">
+					<Value>0000</Value>
+				</Property>
+				<Property Name="RoundEdgeRadius">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Points">
+					<Value>(0,0)(660,0)(660,75)(0,75)</Value>
+				</Property>
+				<Property Name="OriginalPoints">
+					<Value>(0,0)(652,0)(652,80)(0,80)</Value>
+				</Property>
+				<Property Name="Transform">
+					<Value>(1.0129030030271988)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.9380863039399622)(0.0000000000000000)</Value>
+				</Property>
+				<Property Name="Width">
+					<Value>660</Value>
+				</Property>
+				<Property Name="Height">
+					<Value>75</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+			<Objects>
+				<Object JVS-ID="25001"/>
+				<Object JVS-ID="24003"/>
+			</Objects>
+		</Object>
+		<Object Class="CRectangle" Name="Rectangle" ObjectName="Rectangle_14005" Pinned="FALSE" JVS-ID="14005">
+			<PropertySheet Name="Rectangle">
+				<Property Name="LineSupression">
+					<Value>0000</Value>
+				</Property>
+				<Property Name="RoundEdgeRadius">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Points">
+					<Value>(0,0)(660,0)(660,320)(0,320)</Value>
+				</Property>
+				<Property Name="OriginalPoints">
+					<Value>(0,0)(624,0)(624,71)(0,71)</Value>
+				</Property>
+				<Property Name="Transform">
+					<Value>(1.0583537788040602)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(4.5311338454458587)(0.0000000000000000)</Value>
+				</Property>
+				<Property Name="Width">
+					<Value>660</Value>
+				</Property>
+				<Property Name="Height">
+					<Value>320</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+			<Objects>
+				<Object JVS-ID="25001"/>
+				<Object JVS-ID="24003"/>
+			</Objects>
+		</Object>
+		<Object Class="CRectangle" Name="Rectangle" ObjectName="Rectangle_14006" Pinned="FALSE" JVS-ID="14006">
+			<PropertySheet Name="Rectangle">
+				<Property Name="LineSupression">
+					<Value>0000</Value>
+				</Property>
+				<Property Name="RoundEdgeRadius">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Points">
+					<Value>(0,0)(660,0)(660,75)(0,75)</Value>
+				</Property>
+				<Property Name="OriginalPoints">
+					<Value>(0,0)(650,0)(650,79)(0,79)</Value>
+				</Property>
+				<Property Name="Transform">
+					<Value>(1.0149786239350413)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(0.9539860718033516)(0.0000000000000000)</Value>
+				</Property>
+				<Property Name="Width">
+					<Value>660</Value>
+				</Property>
+				<Property Name="Height">
+					<Value>75</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+			<Objects>
+				<Object JVS-ID="25001"/>
+				<Object JVS-ID="24003"/>
+			</Objects>
+		</Object>
+		<Object Class="CRectangle" Name="Rectangle" ObjectName="Rectangle_14007" Pinned="FALSE" JVS-ID="14007">
+			<PropertySheet Name="Rectangle">
+				<Property Name="LineSupression">
+					<Value>0000</Value>
+				</Property>
+				<Property Name="RoundEdgeRadius">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Points">
+					<Value>(0,0)(660,0)(660,75)(0,75)</Value>
+				</Property>
+				<Property Name="OriginalPoints">
+					<Value>(0,0)(665,0)(665,59)(0,59)</Value>
+				</Property>
+				<Property Name="Transform">
+					<Value>(0.9926043456519040)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.2792085962817672)(0.0000000000000000)</Value>
+				</Property>
+				<Property Name="Width">
+					<Value>660</Value>
+				</Property>
+				<Property Name="Height">
+					<Value>75</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+			<Objects>
+				<Object JVS-ID="25001"/>
+				<Object JVS-ID="24003"/>
+			</Objects>
+		</Object>
 		<Object Class="CEllipse" Name="Ellipse" ObjectName="Ellipse_15000" Pinned="FALSE" JVS-ID="15000">
 			<PropertySheet Name="Ellipse">
 				<Property Name="StartAngle">
@@ -6666,6 +7016,64 @@ AGkAdAB5AAAA]]>
 			<Objects>
 				<Object JVS-ID="25001"/>
 				<Object JVS-ID="24000"/>
+			</Objects>
+		</Object>
+		<Object Class="CEllipse" Name="Ellipse" ObjectName="Ellipse_15001" Pinned="FALSE" JVS-ID="15001">
+			<PropertySheet Name="Ellipse">
+				<Property Name="StartAngle">
+					<Value>0</Value>
+				</Property>
+				<Property Name="EndAngle">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Type">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Width">
+					<Value>120</Value>
+				</Property>
+				<Property Name="Height">
+					<Value>120</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+			<Objects>
+				<Object JVS-ID="25003"/>
+				<Object JVS-ID="24002"/>
+			</Objects>
+		</Object>
+		<Object Class="CEllipse" Name="Ellipse" ObjectName="Ellipse_15002" Pinned="FALSE" JVS-ID="15002">
+			<PropertySheet Name="Ellipse">
+				<Property Name="StartAngle">
+					<Value>0</Value>
+				</Property>
+				<Property Name="EndAngle">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Type">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Width">
+					<Value>137</Value>
+				</Property>
+				<Property Name="Height">
+					<Value>137</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+			<Objects>
+				<Object JVS-ID="25001"/>
+				<Object JVS-ID="24002"/>
 			</Objects>
 		</Object>
 		<Object Class="CPolygon" Name="Polygon" ObjectName="Polygon_16000" Pinned="FALSE" JVS-ID="16000">
@@ -6944,16 +7352,16 @@ AGkAdAB5AAAA]]>
 		<Object Class="CProxy" Name="Text" ObjectName="" Pinned="FALSE" JVS-ID="4194311">
 			<PropertySheet Name="Proxy">
 				<Property Name="Top">
-					<Value>39</Value>
+					<Value>65</Value>
 				</Property>
 				<Property Name="Left">
-					<Value>-1</Value>
+					<Value>132</Value>
 				</Property>
 				<Property Name="Name">
 					<Value>Text</Value>
 				</Property>
 				<Property Name="Transform">
-					<Value>(1.0000000000000000)(0.0000000000000000)(-1.0000000000000000)(0.0000000000000000)(1.0000000000000000)(38.9999999999999860)</Value>
+					<Value>(1.0000000000000000)(0.0000000000000000)(132.0000000000000000)(0.0000000000000000)(1.0000000000000000)(65.0000000000000000)</Value>
 				</Property>
 			</PropertySheet>
 			<Objects>
@@ -7603,6 +8011,44 @@ AGkAdAB5AAAA]]>
 			</PropertySheet>
 			<Objects>
 				<Object JVS-ID="16003"/>
+			</Objects>
+		</Object>
+		<Object Class="CProxy" Name="Ellipse" ObjectName="" Pinned="FALSE" JVS-ID="4194381">
+			<PropertySheet Name="Proxy">
+				<Property Name="Top">
+					<Value>20</Value>
+				</Property>
+				<Property Name="Left">
+					<Value>100</Value>
+				</Property>
+				<Property Name="Name">
+					<Value>Ellipse</Value>
+				</Property>
+				<Property Name="Transform">
+					<Value>(1.0000000000000000)(0.0000000000000000)(100.0000000000000000)(0.0000000000000000)(1.0000000000000000)(20.0000000000000000)</Value>
+				</Property>
+			</PropertySheet>
+			<Objects>
+				<Object JVS-ID="15001"/>
+			</Objects>
+		</Object>
+		<Object Class="CProxy" Name="Ellipse_1" ObjectName="" Pinned="FALSE" JVS-ID="4194382">
+			<PropertySheet Name="Proxy">
+				<Property Name="Top">
+					<Value>12</Value>
+				</Property>
+				<Property Name="Left">
+					<Value>92</Value>
+				</Property>
+				<Property Name="Name">
+					<Value>Ellipse_1</Value>
+				</Property>
+				<Property Name="Transform">
+					<Value>(1.0000000000000000)(0.0000000000000000)(91.7419087477256030)(0.0000000000000000)(1.0000000000000000)(11.7419087477255990)</Value>
+				</Property>
+			</PropertySheet>
+			<Objects>
+				<Object JVS-ID="15002"/>
 			</Objects>
 		</Object>
 	</Objects>

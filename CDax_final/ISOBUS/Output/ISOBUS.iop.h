@@ -99,6 +99,7 @@
 #define OutputString_11034                11034
 #define OutputString_11035                11035
 #define OutputString_11036                11036
+#define OutputString_11037                11037
 #define OutputNumber_12000                12000
 #define OutputNumber_12001                12001
 #define OutputNumber_12002                12002
@@ -106,7 +107,14 @@
 #define Rectangle_14000                   14000
 #define Rectangle_14001                   14001
 #define Rectangle_14002                   14002
+#define Rectangle_14003                   14003
+#define Rectangle_14004                   14004
+#define Rectangle_14005                   14005
+#define Rectangle_14006                   14006
+#define Rectangle_14007                   14007
 #define Ellipse_15000                     15000
+#define Ellipse_15001                     15001
+#define Ellipse_15002                     15002
 #define Polygon_16000                     16000
 #define Polygon_16001                     16001
 #define Polygon_16002                     16002
@@ -122,6 +130,9 @@
 #define FontAttributes_23006              23006
 #define LineAttributes_24000              24000
 #define LineAttributes_24001              24001
+#define LineAttributes_24002              24002
+#define LineAttributes_24003              24003
 #define FillAttributes_25000              25000
 #define FillAttributes_25001              25001
 #define FillAttributes_25002              25002
+#define FillAttributes_25003              25003
